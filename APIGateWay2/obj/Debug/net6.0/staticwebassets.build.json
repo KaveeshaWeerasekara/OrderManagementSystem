@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CTH2QZeiNwJ9L0GrKtJD1c0BFjuPGAO1EHJMB0JjyMs=",
+  "Source": "APIGateWay2",
+  "BasePath": "_content/APIGateWay2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
