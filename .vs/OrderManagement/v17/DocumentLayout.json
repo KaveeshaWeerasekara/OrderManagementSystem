@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PayMedia\\task1\\OrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\service\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\service\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\service\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\service\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\service\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\service\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\requests\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\requests\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\service\\orderproductservice\\orderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\service\\orderproductservice\\orderproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\requests\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\requests\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\service\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\service\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\service\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\service\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\dtos\\requests\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\dtos\\requests\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\models\\orderproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\orderproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|c:\\paymedia\\task1\\ordermanagement\\ordermanagement\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97C2755-29B1-4BC0-9C07-B8857C8D8520}|OrderManagement\\OrderManagement.csproj|solutionrelative:ordermanagement\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Models\\OrderModel.cs",
+              "RelativeToolTip": "OrderManagement\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:33:04.181Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Requests\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\Requests\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Requests\\CreateOrderRequest.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\Requests\\CreateOrderRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:05:34.4Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderProductService.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\OrderProductService\\OrderProductService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Service\\OrderProductService\\OrderProductService.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\OrderProductService\\OrderProductService.cs",
+              "RelativeToolTip": "OrderManagement\\Service\\OrderProductService\\OrderProductService.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwLsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:51:06.169Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProductDTO.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\OrderProductDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\OrderProductDTO.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\OrderProductDTO.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\OrderProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:52:27.789Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderProductModel.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Models\\OrderProductModel.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Models\\OrderProductModel.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Models\\OrderProductModel.cs",
+              "RelativeToolTip": "OrderManagement\\Models\\OrderProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:41:30.854Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:36:55.477Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Models\\UserModel.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Models\\UserModel.cs",
+              "RelativeToolTip": "OrderManagement\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:13:32.249Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderManagement\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T09:04:36.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Service\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "OrderManagement\\Service\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwNgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:18:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Service\\OrderService\\OrderService.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "OrderManagement\\Service\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:48:10.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderManagement\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:17:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\OrderService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Service\\OrderService\\IOrderService.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\OrderService\\IOrderService.cs",
+              "RelativeToolTip": "OrderManagement\\Service\\OrderService\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:02:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\Responses\\BaseResponse.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\Responses\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:11:03.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Program.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "OrderManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:26:56.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:16:39.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Requests\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\Requests\\CreateProductRequest.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Requests\\CreateProductRequest.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\Requests\\CreateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:18:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\ApplicationDBContext.cs",
+              "RelativeToolTip": "OrderManagement\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:59:13.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Service\\UserService\\UserService.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\UserService\\UserService.cs",
+              "RelativeToolTip": "OrderManagement\\Service\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAMoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:43:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\Service\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\Service\\UserService\\IUserService.cs",
+              "RelativeToolTip": "OrderManagement\\Service\\UserService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:43:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:25:35.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Requests\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "OrderManagement\\DTOs\\Requests\\CreateUserRequest.cs",
+              "ToolTip": "C:\\PayMedia\\task1\\OrderManagement\\OrderManagement\\DTOs\\Requests\\CreateUserRequest.cs",
+              "RelativeToolTip": "OrderManagement\\DTOs\\Requests\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:24:22.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
